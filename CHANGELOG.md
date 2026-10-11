@@ -12,6 +12,9 @@ Categorieën: **Toegevoegd**, **Gewijzigd**, **Opgelost**, **Verwijderd**, **Bev
 - `netlify.toml` (nieuw, alleen de `ignore`-regel; buildinstellingen staan in de Netlify-UI): geen build bij commits met alleen documentatie.
 
 ### Onderhoud
+- Node 22 vastgezet: `.nvmrc` en `NODE_VERSION` in `netlify.toml`.
+- `.netlify/` uit git gehaald (stond al in `.gitignore`); `.claude/` toegevoegd aan `.gitignore`.
+- README: Netlify-sitenaam `paulkempe` ingevuld.
 - `.github/dependabot.yml`: wekelijkse updates naar `staging`, gegroepeerd (Astro, Sanity, minor/patch).
 
 ## [2026-10-07] (PR #34)
