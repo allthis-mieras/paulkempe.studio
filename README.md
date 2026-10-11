@@ -9,7 +9,7 @@
 | **Status** | Live |
 | **SLA** | TODO |
 | **Live** | https://paulkempe.studio |
-| **Netlify** | team All This, site `TODO` (site-id `50d37606-9195-4a55-90c0-225d42f16266`) |
+| **Netlify** | team All This, site `paulkempe` (site-id `50d37606-9195-4a55-90c0-225d42f16266`) |
 | **CMS** | Sanity project `fru2c8yu`, dataset `production`, Studio https://paulkempe.studio/admin |
 | **Repo** | [github.com/astrobuildclub/paulkempe.studio](https://github.com/astrobuildclub/paulkempe.studio) |
 | **Notion** | TODO |
